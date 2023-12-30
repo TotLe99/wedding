@@ -5659,10 +5659,13 @@ transform: translate(-50%, -50%);
 .donate-box .cryptos-box-view .cryptos-box-view-close:hover{background: #e3252d;}
 
 #clock {overflow: hidden;text-align: center;display: flex;justify-content: center;margin-top: 20px;}
+#clock2 {overflow: hidden;text-align: center;display: flex;justify-content: center;margin-top: 20px;}
 #clock > div {width: 90px;height: 90px;float: left;display: table;border: 3px solid #f23b43;border-radius: 50%;background-color: rgb(255 255 255 / 100%);}
 #clock > div > div {display: table-cell;vertical-align: middle;}
 #clock > div{margin: 15px;color: #000;}
 #clock .time {font-family: 'Century Gothic', Arial;color: #f9667e;font-size: 24px;line-height: 24px;padding-top: 15px;}
+.text-center{text-align:center;}
+#clock2 .time {font-family: 'Century Gothic', Arial;color: #f9667e;font-size: 24px;line-height: 24px;padding-top: 30px;}
 .text-center{text-align:center;}
 .event-image{
 	border: 5px solid #fff;
